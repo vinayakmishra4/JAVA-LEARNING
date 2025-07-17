@@ -13,6 +13,11 @@ JAVA FORM STRACH TO ADVANCE LEVEL
   - Java Program Structure
   - [DAY-2: Hello, Java Program Structure](https://github.com/vinayakmishra4/JAVA-LEARNING/blob/main/DAY-2-Hello-Java-Structure/DAY-2.txt)
   - [Hello](https://github.com/vinayakmishra4/JAVA-LEARNING/blob/main/DAY-2-Hello-Java-Structure/Hello.java)
+  # DAY-3-Variables,Data Types
+  - Variables
+  - Data Types
+  - [DAY-3: Variables, Data Types](https://github.com/vinayakmishra4/JAVA-LEARNING/blob/main/DAY-3-Variables-Datatypes/DAY-3.txt)
+  - [Variables,DataTypes](https://github.com/vinayakmishra4/JAVA-LEARNING/blob/main/DAY-3-Variables-Datatypes/VaraDa.java)
 
 # Prerequties
 - Java 11 or higher
