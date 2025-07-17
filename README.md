@@ -8,10 +8,10 @@ JAVA FORM STRACH TO ADVANCE LEVEL
 
 # MODULE
 # PHASE-1
-  # DAY-1-DAY-1-Introduction to Java,Setup-JDK and IDE(IntelliJ/Eclipse/VSCODE)
+  # DAY-1-Introduction to Java,Setup-JDK and IDE(IntelliJ/Eclipse/VSCODE)
   - Introduction to java
   - Setup of JDK
   - Setup of VSCODE
-  - [click here for DAY-1.TXT](https://github.com/vinayakmishra4/JAVA-LEARNING/blob/main/DAY-1-Introduction-to-Java-Setup-JDK-IDE-(IntelliJ:Eclipse:VSCODE)/DAY-1.TXT)
+  - [click here for DAY-1.TXT](https://github.com/vinayakmishra4/JAVA-LEARNING/blob/main/DAY-1-Introduction-to-Java-Setup-JDK-IDE-(IntelliJ/Eclipse/VSCODE)/DAY-1.TXT)
 
 
