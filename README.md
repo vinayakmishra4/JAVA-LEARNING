@@ -12,7 +12,7 @@ JAVA FORM STRACH TO ADVANCE LEVEL
   - Hello,Java Program
   - Java Program Structure
   - [DAY-2: Hello, Java Program Structure](https://github.com/vinayakmishra4/JAVA-LEARNING/blob/main/DAY-2-Hello-Java-Structure/DAY-2.txt)
-  -[Hello](https://github.com/vinayakmishra4/JAVA-LEARNING/blob/main/DAY-2-Hello-Java-Structure/Hello.java)
+  - [Hello](https://github.com/vinayakmishra4/JAVA-LEARNING/blob/main/DAY-2-Hello-Java-Structure/Hello.java)
 
 # Prerequties
 - Java 11 or higher
