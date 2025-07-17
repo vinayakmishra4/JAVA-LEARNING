@@ -1,11 +1,6 @@
 # JAVA-LEARNING
 JAVA FORM STRACH TO ADVANCE LEVEL
 
-# Prerequties
-- Java 11 or higher
-- A code editor or IDE (VS Code, IntelliJ IDEA, Eclipse, etc.)
-- Basic command line knowledge
-
 # MODULE
 # PHASE-1
   # DAY-1-Introduction to Java,Setup-JDK and IDE(IntelliJ/Eclipse/VSCODE)
@@ -14,4 +9,8 @@ JAVA FORM STRACH TO ADVANCE LEVEL
   - Setup of VSCODE
   - [click here for DAY-1.TXT](https://github.com/vinayakmishra4/JAVA-LEARNING/blob/main/DAY-1-Introduction-to-Java-Setup-JDK-IDE-(IntelliJ/Eclipse/VSCODE)/DAY-1.TXT)
 
+# Prerequties
+- Java 11 or higher
+- A code editor or IDE (VS Code, IntelliJ IDEA, Eclipse, etc.)
+- Basic command line knowledge
 
