@@ -1,0 +1,91 @@
+<------------------------------------------------DATATYPES AND VARIABLES---------------------------------------------------------->
+What is DATATYPES?
+A data type is a classification of data based on its format, size, and range of values.
+What is VARIABLES?
+A variable is a name given to a location in memory where a value can be stored.
+---------------------------------------------------------->
+What is the difference between a variable and a data type?
+A variable is a name given to a location in memory where a value can be stored, while a
+data type is a classification of data based on its format, size, and range of values.
+---------------------------------------------------------->
+What is the purpose of declaring a variable?
+The purpose of declaring a variable is to reserve memory space for a value and to specify the data typ
+e of the value that will be stored in that memory space.
+---------------------------------------------------------->
+Types of Datatypes:-
+1. Integer
+2. Float
+3. Character
+4. Boolean
+5. String
+6. Array
+7.Long
+8. Double
+---------------------------------------------------------->
+1.Integer:-
+The integer data type is used to store whole numbers, either positive, negative, or zero.
+Example: int x = 10;
+---------------------------------------------------------->
+2.Float:-
+The float data type is used to store decimal numbers.
+Example: float x = 10.5;
+---------------------------------------------------------->
+3.Character:-
+The character data type is used to store a single character.
+Example: char x = 'A';
+---------------------------------------------------------->
+4.Boolean:-
+The boolean data type is used to store a true or false value.
+Example: boolean x = true;
+---------------------------------------------------------->
+5.String:-
+The string data type is used to store a sequence of characters.
+Example:String s="Srr"
+---------------------------------------------------------->
+6.Array:-
+The array data type is used to store a collection of values of the same data type.
+Example: int[] arr = new int[5];
+---------------------------------------------------------->
+7.Long:-
+The long data type is used to store whole numbers, either positive, negative, or zero, with
+a larger range than the integer data type.
+Example: long x = 1000000000L;
+---------------------------------------------------------->
+8.Double:-
+The double data type is used to store decimal numbers with a higher precision than the float data type.
+Example: double x = 10.5;
+---------------------------------------------------------->
+Types of Variables:-
+1. Local Variables
+2. Global Variables
+3. Static Variables
+4. Instance Variables
+5. Class Variables
+---------------------------------------------------------->
+1.Local Variables:-
+Local variables are the variables that are declared inside a method or a block of code.
+They are used to store temporary values and are destroyed when the method or block of code is executed.
+Example: int x = 10;
+---------------------------------------------------------->
+2.Global Variables:-
+Global variables are the variables that are declared outside a method or a block of code.
+They are used to store values that are accessible throughout the program.
+Example: int x = 10;
+---------------------------------------------------------->
+3.Static Variables:-
+Static variables are the variables that are declared with the static keyword.
+They are used to store values that are shared by all instances of a class.
+Example: static int x = 10;
+---------------------------------------------------------->
+4.Instance Variables:-
+Instance variables are the variables that are declared inside a class but outside any method or block of code.
+They are used to store values that are specific to each instance of a class.
+Example: int x = 10;
+---------------------------------------------------------->
+5.Class Variables:-
+Class variables are the variables that are declared inside a class but outside any method or block of code.
+They are used to store values that are shared by all instances of a class.
+Example: static int x = 10;
+---------------------------------------------------------->
+
+
