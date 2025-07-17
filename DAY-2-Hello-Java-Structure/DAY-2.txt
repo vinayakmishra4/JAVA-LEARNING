@@ -1,0 +1,78 @@
+<-----------------------------------------------------HELLO PROGRAM------------------------------------------------------------>
+Access modifier: 'public' means this class is accessible from anywhere
+public class Hello
+{
+   // 'public' means this method can be accessed from anywhere
+   // 'static' means it belongs to the class, not an instance
+   // 'void' means it doesn't return any value
+   // 'main' is the entry point of any Java application
+   // 'String[] args' stores command-line arguments
+   public static void main(String[] args)
+   {
+     // 'System' is a final class in the java.lang package
+     // 'out' is a static member of System class, which is a PrintStream object
+     // 'println' is a method of PrintStream that prints the argument and a newline
+     System.out.println("Hello");
+   }    
+}
+<--------------------------------------------------------KEY WORD USED IN HELLO------------------------------------------------->
+1. Access modifier: public
+2. Class: Hello
+3. Method: main
+4. Parameter: String[] args
+5. Keyword: System
+6. Keyword: out
+7. Keyword: println
+8. Keyword: static
+9. Keyword: void
+10. Keyword: final
+11. Keyword: static
+
+1.Access modifier:-
+Access modifier is used to restrict the access of a class, method, or variable. It determines
+whether another class in the same package or in a different package can access the members of a class.
+There are four types of access modifiers in Java:
+a) public: The members of a class that are declared as public can be accessed from anywhere.
+b) private: The members of a class that are declared as private can be accessed only within th
+at class in which it is declared.
+c) protected: The members of a class that are declared as protected can be accessed within the
+same class and within any class that is a subclass of the class in which it is declared.
+d) default (or no modifier): The members of a class that are declared without any access modifier
+can be accessed within the same class and within any class that is in the same package as the
+class in which it is declared.
+2.Class:-
+A class is a blueprint or a template that defines the properties and behavior of an object. It is
+a fundamental concept in object-oriented programming (OOP) and is used to create objects that
+can be used to represent real-world entities or concepts.
+3.Method:-
+A method is a block of code that can be executed multiple times from different parts of a program.
+It is a function that belongs to a class and is used to perform a specific task or set of
+tasks. Methods are used to encapsulate code that can be reused throughout a program.
+4.Parameter:-
+A parameter is a value that is passed to a method when it is called. It is a variable that is used to store the value that is passed to a method.
+5.Keyword: System:-
+The System class is a final class in the java.lang package. It is used to interact with th
+e operating system and provides methods for performing various system-related tasks, such as
+reading from the console, writing to the console, and exiting the program.
+6.Keyword: out:-
+The out keyword is a static member of the System class. It is a PrintStream object that is
+used to print output to the console.
+7.Keyword: println:-
+The println keyword is a method of the PrintStream class. It is used to print the argument
+and a newline to the console.
+8.Keyword: static:-
+The static keyword is used to declare a method or variable that belongs to a class rather
+than an instance of the class. A static method can be called without creating an instance of
+the class, and a static variable is shared by all instances of the class.
+9.Keyword: void:-
+The void keyword is used to indicate that a method does not return any value.
+10.Keyword: final:-
+The final keyword is used to declare a method or variable that cannot be overridden or
+modified. A final method cannot be overridden by a subclass, and a final variable cannot be
+modified once it is initialized.
+11.Keyword: static:-
+The static keyword is used to declare a method or variable that belongs to a class rather   
+than an instance of the class. A static method can be called without creating an instance of
+the class, and a static variable is shared by all instances of the class.
+<----------------------------------------------------------THANK YOU--------------------------------------------------------------->
+
