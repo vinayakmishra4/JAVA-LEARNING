@@ -7,7 +7,7 @@ JAVA FORM STRACH TO ADVANCE LEVEL
   - Introduction to java
   - Setup of JDK
   - Setup of VSCODE
-  - [DAY-1: Hello World & Setup](https://github.com/vinayakmishra4/JAVA-LEARNING/main/DAY-1-Introduction-to-Java-Setup-JDK-IDE/DAY-1.TXT)
+  - [DAY-1: Introduction to Java, Setup, JDK & IDE](https://github.com/vinayakmishra4/JAVA-LEARNING/blob/main/DAY-1-Introduction-to-Java-Setup-JDK-IDE/DAY-1.txt)
 
 # Prerequties
 - Java 11 or higher
